@@ -1,0 +1,9 @@
+@import "minima";
+
+body {
+	
+}
+
+img {
+	border: 10px solid red !important;
+}
