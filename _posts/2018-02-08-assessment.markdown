@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Basic Assessment"
+title:  "Basic Assessment of Jekyll"
 date:   2018-02-08
 categories: jekyll assessment
 ---
 
-Jekyll seenms to have all of the capabilities we need. Testing update on github.com
+Jekyll seenms to have all of the capabilities we need. 
 
 - We can use Jekyll to create pages, posts, or any item via our own definition.
 
