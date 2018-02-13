@@ -18,7 +18,7 @@ Jekyll seenms to have all of the capabilities we need. Testing update on github.
 
 - We can easily insert images of cats or screens, flows, etc. with markdown `![alt text](/img/cat1.jpg)`:
 
-![cat1](/{{site.baseurl}}/img/cat1.jpg) > ![cat2](/{{site.baseurl}}/img/cat2.jpg) > ![cat3](/{{site.baseurl}}/img/cat3.jpg)
+![cat1](img/cat1.jpg) > ![cat2](img/cat2.jpg) > ![cat3](img/cat3.jpg)
 
 - We can link to Octagon components (see [Octagon page](https://tripwire.github.io/octagon/#!/PaginationControl) in nav).
 
