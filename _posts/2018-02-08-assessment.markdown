@@ -5,7 +5,7 @@ date:   2018-02-08
 categories: jekyll assessment
 ---
 
-Jekyll seenms to have all of the capabilities we need.
+Jekyll seenms to have all of the capabilities we need. Testing update on github.com
 
 - We can use Jekyll to create pages, posts, or any item via our own definition.
 
