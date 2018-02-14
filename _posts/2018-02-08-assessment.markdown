@@ -3,6 +3,7 @@ layout: post
 title:  "Basic Assessment of Jekyll"
 date:   2018-02-08
 categories: jekyll assessment
+cat: "img/cat1.jpg"
 ---
 
 Jekyll seenms to have all of the capabilities we need. 
@@ -18,7 +19,10 @@ Jekyll seenms to have all of the capabilities we need.
 
 - We can easily insert images of cats or screens, flows, etc. with markdown `![alt text](/img/cat1.jpg)`:
 
-![cat1](img/cat1.jpg) > ![cat2](img/cat2.jpg) > ![cat3](img/cat3.jpg)
+{{page.cat}}
+
+
+![alt-cat1]({{page.cat}}) > ![cat2](img/cat2.jpg) > ![cat3](img/cat3.jpg)
 
 - We can link to Octagon components (see [Octagon page](https://tripwire.github.io/octagon/#!/PaginationControl) in nav).
 
